@@ -1,5 +1,5 @@
 // program to display numbers from 1 to 5
-const n = 5;
+const n = 10;
 
 // looping from i = 1 to 5
 // in each iteration, i is increased by 1
